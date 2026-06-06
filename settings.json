@@ -9,7 +9,7 @@
     "ip": "LongChimthui.aternos.me",
     "port": 62518,
     "version": "1.21.1",
-    "try-creative": true
+    "try-creative":
   },
   "position": {
     "enabled": true,
